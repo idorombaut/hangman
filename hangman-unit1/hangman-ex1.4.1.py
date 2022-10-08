@@ -8,4 +8,4 @@ print("""  _    _
 |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
                       __/ |                      
                      |___/ """)
-print(random.randint(5,10))
+print(random.randint(5, 10))
